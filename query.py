@@ -8,6 +8,8 @@ def executeSQL(conn, queryTerm):
     for row in result:
      print row
 
+
+#your db configuration
 hostname = ''
 username = ''
 password = ''
